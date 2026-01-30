@@ -58,3 +58,14 @@ frontend/.env.development.local
 frontend/.env.test.local
 frontend/.env.production.local
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+/tmp/
+
