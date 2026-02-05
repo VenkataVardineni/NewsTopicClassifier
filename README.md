@@ -212,10 +212,6 @@ Uses the **20 Newsgroups dataset** with 20 categories:
 - Science topics (cryptography, electronics, medicine, space)
 - Politics and religion topics
 
-## License
-
-MIT License
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
